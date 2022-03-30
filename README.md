@@ -6,6 +6,8 @@ The relational data model and the SQL query language. Conceptual modeling: entit
 
 # About the project
 
+## overview description
+
 We start off by building up the most basic element of a database system ---- the representation
 of the data. In SimpleDB, we represent data in tuples and a self-defined class called tupleDesc
 to represent schema. Now, we need an class to keep track of the all available tables in the
@@ -48,3 +50,7 @@ Now, we have to have an operators that are responsible for the actual execution 
 plan. SequenceScan is developed as an access method that reads each tuple of a table in no
 particular order, and insert and delete operators are responsible for adding and deleting tuples
 from a table.
+
+## diagram
+
+[SimpleDB](https://github.com/Jack-Chuang/CSE-490-G1/blob/49632543203b1f6369a5d04d41dfba719e90b655/final%20project/NeRF.pdf)
