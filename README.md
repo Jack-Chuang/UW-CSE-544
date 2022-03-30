@@ -53,4 +53,4 @@ from a table.
 
 ## diagram
 
-![The NeRF model](https://github.com/Jack-Chuang/CSE-490-G1/blob/0f09258228837dcc340dc4e89a8a07966bd582dd/final%20project/figures/NeRF%20model.PNG)
+![SimpleDB](https://github.com/Jack-Chuang/UW-CSE-544/tree/main/image/SimpleDB%20diagram.png)
