@@ -53,4 +53,4 @@ from a table.
 
 ## diagram
 
-![SimpleDB](https://github.com/Jack-Chuang/UW-CSE-544/tree/main/image/SimpleDB%20diagram.png)
+![SimpleDB](https://github.com/Jack-Chuang/UW-CSE-544/blob/main/image/SimpleDB%20diagram.png)
